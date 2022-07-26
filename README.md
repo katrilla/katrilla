@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @katrilla or Joann
-- 👀 I’m interested in TTRPG and Coding
+- 👋 Hi, I’m @katrilla or Joann Walles
+- 👀 I’m interested in TTRPGs and Coding
 - 🌱 I’m currently learning how to write javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
